@@ -1,9 +1,11 @@
 # thegeodatascientist
 
-Code for plotting a shooting star out of the Schiller*innen in this Advent time. Enjoy!
-The code is optimized for Jupyter Notebook but it can be adapted to any standalone format. Please adapt the paths to files. 
+Code for plotting a shooting star out of the Schiller*innen in this Advent time.    
+The code is optimized for Jupyter Notebook but it can be adapted to any standalone format. Please adapt the paths to files.     
+Enjoy!    
 
-[Open HTML visualization](https://github.com/yzut-ydv/thegeodatascientist/blob/main/schillerinnen_blume_all.html)
+![Schooting star of Schiller*innen](https://github.com/yzut-ydv/thegeodatascientist/blob/main/schillerinnen_blume_all.png)
+![Schooting star of Schiller*innen with close up for Europe](https://github.com/yzut-ydv/thegeodatascientist/blob/main/schillerinnen_blume_europe.png)
 
 
 ```
