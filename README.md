@@ -3,6 +3,9 @@
 Code for plotting a shooting star out of the Schiller*innen in this Advent time. Enjoy!
 The code is optimized for Jupyter Notebook but it can be adapted to any standalone format. Please adapt the paths to files. 
 
+[Open HTML visualization](https://github.com/yzut-ydv/thegeodatascientist/blob/main/schillerinnen_blume_all.html)
+
+
 ```
 import plotly
 import plotly.graph_objects as go
