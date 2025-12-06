@@ -1,4 +1,4 @@
-# thegeodatascientist
+# Schiller*innen Shooting star 
 
 Code for plotting a shooting star out of the Schiller*innen in this Advent time.    
 The code is optimized for Jupyter Notebook but it can be adapted to any standalone format. Please adapt the paths to files.     
